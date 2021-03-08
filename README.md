@@ -1,6 +1,6 @@
 <h1>ASP.NET Core MVC</h1>
 
-##Pré-requisitos<br>
+<h2>Pré-requisitos</h2>
 
 Visual Studio Code<br>
 C# para Visual Studio Code (versão mais recente)<br>

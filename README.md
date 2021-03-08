@@ -1,11 +1,5 @@
 <h1>ASP.NET Core MVC</h1>
-
-<h2>Pré-requisitos</h2>
-
-Visual Studio Code<br>
-C# para Visual Studio Code (versão mais recente)<br>
-SDK do .NET 5,0 ou posterior<br>
-As instruções de Visual Studio Code usam a CLI do .NET para funções de desenvolvimento ASP.NET Core, como a criação do projeto. Você pode seguir estas instruções no macOS, Linux ou Windows e com qualquer editor de código. Alterações secundárias poderão ser necessárias se você usar algo diferente do Visual Studio Code.
+O ASP.NET Core MVC é uma estrutura avançada para a criação de aplicativos Web e APIs usando o padrão de design Model-View-Controller.
 
 <h2>O Padrão MVC (Model-View-Controller)</h2>
 O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso.

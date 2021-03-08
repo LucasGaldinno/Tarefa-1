@@ -5,6 +5,9 @@ O MVC é utilizado em muitos projetos devido a arquitetura que possui, o que pos
 Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.<br><br>
 Para mais informações acesse o site: <a href="https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308">Devmedia</a>
 
+<h2>Esse programa foi desenvolvido no Visual Studio Code</h2>
+Versão: Fevereiro de 2021 (versão 1.54) <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a>
+
 <h2>Extensões utilizadas para o desenvolvimento desse projeto</h2>
 
 - <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C#</a>
